@@ -1,0 +1,14 @@
+.emp-date-box{
+    background-color: black;
+    border-radius: 8px;
+    width: 120px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.emp-date-box div{
+    color: white;
+}
